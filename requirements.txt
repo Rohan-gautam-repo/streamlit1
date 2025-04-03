@@ -7,3 +7,9 @@ wordcloud
 scikit-learn
 opencv-python
 Pillow
+wordcloud
+sklearn
+openCV
+os
+datetime
+random 
