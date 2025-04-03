@@ -12,4 +12,4 @@ sklearn
 openCV
 os
 datetime
-random 
+random
